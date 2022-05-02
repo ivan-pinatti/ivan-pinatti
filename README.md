@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ivan Pinatti
+### Hi there, I'm Ivan Pinatti 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ivan_pinatti?logo=twitter&style=for-the-badge)
 
