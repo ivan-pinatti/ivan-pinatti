@@ -22,8 +22,8 @@ If you'd like to support my work (which I do mostly in my spare time), a small d
 </div>
 
 
-| BTC | ETH | ADA | BCH | DOGE | LTC | XRP | ATOM | KAVA |
-|:---:|:---:|:---:|:---:|:----:|:---:|:---:|:----:|:----:|
-| <img src="docs/crypto/qr-codes/btc.png" width="120"> | <img src="docs/crypto/qr-codes/eth.png" width="120"> | <img src="docs/crypto/qr-codes/ada.png" width="120"> | <img src="docs/crypto/qr-codes/bch.png" width="120"> | <img src="docs/crypto/qr-codes/doge.png" width="120"> | <img src="docs/crypto/qr-codes/ltc.png" width="120"> | <img src="docs/crypto/qr-codes/xrp.png" width="120"> | <img src="docs/crypto/qr-codes/atom.png" width="120"> | <img src="docs/crypto/qr-codes/kava.png" width="120"> |
+| BTC | ETH | XMR | XRP | ADA | ATOM | BCH | DOGE | KAVA | LTC | ZEC |
+|:---:|:---:|:---:|:---:|:---:|:----:|:---:|:----:|:----:|:---:|:---:|
+| <img src="docs/crypto/qr-codes/btc.png" width="120"> | <img src="docs/crypto/qr-codes/eth.png" width="120"> | <img src="docs/crypto/qr-codes/xmr.png" width="120"> | <img src="docs/crypto/qr-codes/xrp.png" width="120"> | <img src="docs/crypto/qr-codes/ada.png" width="120"> | <img src="docs/crypto/qr-codes/atom.png" width="120"> | <img src="docs/crypto/qr-codes/bch.png" width="120"> | <img src="docs/crypto/qr-codes/doge.png" width="120"> | <img src="docs/crypto/qr-codes/kava.png" width="120"> | <img src="docs/crypto/qr-codes/ltc.png" width="120"> | <img src="docs/crypto/qr-codes/zec.png" width="120"> |
 
 **Cryptocurrency** ([all addresses](docs/crypto/addresses.md))
