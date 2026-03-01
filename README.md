@@ -22,8 +22,41 @@ If you'd like to support my work (which I do mostly in my spare time), a small d
 </div>
 
 
-| BTC | ERC-20 | XMR | XRP | ADA | ATOM | BCH | BEP-20 | DOGE | KAVA | LTC | TRC-20 | ZEC |
-|:---:|:------:|:---:|:---:|:---:|:----:|:---:|:------:|:----:|:----:|:---:|:------:|:---:|
-| <img src="docs/crypto/qr-codes/btc.png" width="120"> | <img src="docs/crypto/qr-codes/eth.png" width="120"> | <img src="docs/crypto/qr-codes/xmr.png" width="120"> | <img src="docs/crypto/qr-codes/xrp.png" width="120"> | <img src="docs/crypto/qr-codes/ada.png" width="120"> | <img src="docs/crypto/qr-codes/atom.png" width="120"> | <img src="docs/crypto/qr-codes/bch.png" width="120"> | <img src="docs/crypto/qr-codes/bnb.png" width="120"> | <img src="docs/crypto/qr-codes/doge.png" width="120"> | <img src="docs/crypto/qr-codes/kava.png" width="120"> | <img src="docs/crypto/qr-codes/ltc.png" width="120"> | <img src="docs/crypto/qr-codes/trx.png" width="120"> | <img src="docs/crypto/qr-codes/zec.png" width="120"> |
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="90">BTC</th>
+      <th align="center" width="90">ERC&#8209;20</th>
+      <th align="center" width="90">XMR</th>
+      <th align="center" width="90">XRP</th>
+      <th align="center" width="90">ADA</th>
+      <th align="center" width="90">ATOM</th>
+      <th align="center" width="90">BCH</th>
+      <th align="center" width="90">BEP&#8209;20</th>
+      <th align="center" width="90">DOGE</th>
+      <th align="center" width="90">KAVA</th>
+      <th align="center" width="90">LTC</th>
+      <th align="center" width="90">TRC&#8209;20</th>
+      <th align="center" width="90">ZEC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="docs/crypto/qr-codes/btc.png" width="85"></td>
+      <td align="center"><img src="docs/crypto/qr-codes/eth.png" width="85"></td>
+      <td align="center"><img src="docs/crypto/qr-codes/xmr.png" width="85"></td>
+      <td align="center"><img src="docs/crypto/qr-codes/xrp.png" width="85"></td>
+      <td align="center"><img src="docs/crypto/qr-codes/ada.png" width="85"></td>
+      <td align="center"><img src="docs/crypto/qr-codes/atom.png" width="85"></td>
+      <td align="center"><img src="docs/crypto/qr-codes/bch.png" width="85"></td>
+      <td align="center"><img src="docs/crypto/qr-codes/bnb.png" width="85"></td>
+      <td align="center"><img src="docs/crypto/qr-codes/doge.png" width="85"></td>
+      <td align="center"><img src="docs/crypto/qr-codes/kava.png" width="85"></td>
+      <td align="center"><img src="docs/crypto/qr-codes/ltc.png" width="85"></td>
+      <td align="center"><img src="docs/crypto/qr-codes/trx.png" width="85"></td>
+      <td align="center"><img src="docs/crypto/qr-codes/zec.png" width="85"></td>
+    </tr>
+  </tbody>
+</table>
 
 *\* ERC-20 accepts ETH, USDT, and USDC · BEP-20 accepts BNB, USDT, and USDC · TRC-20 accepts TRX, USDT, and USDC · [All addresses and networks](docs/crypto/addresses.md)*
